@@ -5,3 +5,15 @@
 .missao{
   font-size: 200 ;
 }
+
+#logo{
+  width: 500px; 
+}
+
+.principal{
+  padding: 30px;
+}
+
+.beneficios{
+  padding: 20px;
+}
